@@ -59,7 +59,7 @@ About 2 hours later, I had a printed part:
 In order to make sure the part lasts as long as possible, extra steps need to be taken to strengthen and protect the part, as PLA's UV resistence isn't as high as PETG, ABS, and ASA, and it can break down over time.
 
 <center><img src="/assets/images/CamHood_4a.jpg"></center>
-<center><i><small>Figure 6 - Resin and talc.</small></i></center>
+<center><i><small>Figure 6 - Resin and baby powder.</small></i></center>
 
 <h1><center>⚠️⚠️⚠️⚠️⚠️</center></h1>
 ## Important! UV resin fumes are toxic and can make you sick! Wear an appropriate mask or respirator, and open the windows!!!
