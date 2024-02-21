@@ -61,9 +61,9 @@ In order to make sure the part lasts as long as possible, extra steps need to be
 <center><img src="/assets/images/CamHood_4a.jpg"></center>
 <center><i><small>Figure 6 - Resin and talc.</small></i></center>
 
-<center>⚠️⚠️⚠️⚠️⚠️</center>
+<h1><center>⚠️⚠️⚠️⚠️⚠️</center></h1>
 ## Important! UV resin fumes are toxic and can make you sick! Wear an appropriate mask or respirator, and open the windows!!!
-<center>⚠️⚠️⚠️⚠️⚠️</center>
+<h1><center>⚠️⚠️⚠️⚠️⚠️</center></h1>
 
 
 The frst step was to mix some UV resin with babypowder. This makes the resin much thicker so that it doesn't "run" as much after it's been painted on. I give it a thin, even coat all over, and set it into my very jank, very hastily-made UV curing box:
